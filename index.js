@@ -24,7 +24,7 @@ function solve1(row) {
 //console.log(productData);
 const filteredData = productData.filter(solve2);
 console.log(filteredData);
-//console.log(filteredData);
+console.log(filteredData);
 
 function solve2(item) {
   return item.price >= threshold;
@@ -40,8 +40,7 @@ for (const item of filteredData) {
 
 //console.log(groupedData);
 const totalsalesByCategory = {};
-for (const category in groupedData) 
-{
+for (const category in groupedData) {
   let totalSales = 0;
   for (const item of groupedData[category]) {
     totalSales += item.sales;
