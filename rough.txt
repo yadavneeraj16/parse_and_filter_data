@@ -1,0 +1,29 @@
+CSV File Parsing and Filtering - Neeraj
+Write a script to read and parse a CSV file containing product data (name, category, price, sales). 
+Filter the products by a minimum price threshold passed as input. 
+Additionally, group the filtered products by category and calculate total sales for each category. 
+Output the filtered product list and total sales summary by category.
+
+
+
+
+thsis is the steop i want to use for this question 
+
+1st read the csv file data as it is  using the this code const fs = require('fs');
+const path = require('path');
+
+const filePath = path.join(__dirname, 'data.csv');
+
+try {
+  const data = fs.readFileSync(filePath, 'utf8');
+  console.log(data);
+} catch (error) {
+  console.error('Error reading the CSV file:', error);
+}
+and console.log(data);
+2nd convert this data into arry of object like const productdata=[{ name:"laptop,category:"electronics",price:40000,sales:540},{ name:"laptop,category:"electronics",price:40000,sales:540},{ name:"laptop,category:"electronics",price:40000,sales:540},{ name:"laptop,category:"electronics",price:40000,sales:540}];
+3rd Apply const filterdata=productdata.filter(solve);
+function solve(item){
+    return item.price>=500;
+}
+console.log(filterdata);

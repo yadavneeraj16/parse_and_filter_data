@@ -1,0 +1,95 @@
+name,category,price,sales
+Laptop,Electronics,1200,150
+Smartphone,Electronics,800,300
+Tablet,Electronics,400,200
+Headphones,Accessories,150,400
+Charger,Accessories,50,500
+Mouse,Accessories,30,600
+Keyboard,Accessories,70,350
+Monitor,Electronics,300,250
+Desk,Furniture,200,100
+Chair,Furniture,100,150
+Lamp,Furniture,40,200
+Bookshelf,Furniture,150,80
+Couch,Furniture,500,60
+Bed,Furniture,700,40
+Rug,Furniture,120,90
+Curtains,Furniture,80,110
+Pillow,Furniture,25,130
+Blanket,Furniture,60,70
+Dresser,Furniture,400,50
+Wardrobe,Furniture,600,45
+Sofa,Furniture,750,35
+Coffee Table,Furniture,250,85
+Dining Table,Furniture,800,25
+Stool,Furniture,90,95
+Shelf,Furniture,180,60
+Side Table,Furniture,220,40
+TV Stand,Furniture,350,30
+Fan,Home,100,120
+Air Conditioner,Home,900,20
+Heater,Home,300,45
+Vacuum Cleaner,Home,400,55
+Iron,Home,80,140
+Toaster,Home,60,180
+Blender,Home,120,90
+Microwave,Home,250,75
+Oven,Home,500,40
+Refrigerator,Home,1000,25
+Washing Machine,Home,850,30
+Dishwasher,Home,950,20
+Water Purifier,Home,200,65
+Kettle,Home,50,200
+Cooker,Home,150,95
+Grill,Home,300,55
+Camera,Electronics,600,110
+Smartwatch,Electronics,250,180
+Printer,Electronics,200,90
+Scanner,Electronics,180,60
+Projector,Electronics,450,70
+Drone,Electronics,1000,40
+Game Console,Electronics,500,150
+Router,Electronics,120,130
+Hard Drive,Electronics,90,210
+USB Drive,Electronics,20,500
+Memory Card,Electronics,15,400
+Speaker,Accessories,200,250
+Smart Glasses,Electronics,700,35
+VR Headset,Electronics,800,25
+Power Bank,Accessories,100,300
+Tripod,Accessories,80,150
+Webcam,Accessories,110,90
+Microphone,Accessories,130,85
+Pen Drive,Accessories,25,420
+Earbuds,Accessories,180,310
+Case,Accessories,40,380
+Screen Protector,Accessories,20,600
+Stylus,Accessories,50,250
+Backpack,Accessories,70,190
+Handbag,Fashion,150,130
+Shoes,Fashion,120,200
+Jacket,Fashion,300,100
+T-Shirt,Fashion,50,250
+Jeans,Fashion,100,180
+Dress,Fashion,200,140
+Watch,Fashion,350,90
+Sunglasses,Fashion,120,160
+Wallet,Fashion,80,170
+Belt,Fashion,40,200
+Hat,Fashion,60,150
+Gloves,Fashion,70,100
+Scarf,Fashion,90,120
+Ring,Fashion,250,60
+Necklace,Fashion,400,50
+Earrings,Fashion,150,90
+Bracelet,Fashion,180,70
+Perfume,Fashion,220,110
+Makeup Kit,Fashion,300,80
+Shampoo,Fashion,40,200
+Conditioner,Fashion,45,180
+Face Cream,Fashion,60,160
+Hair Dryer,Fashion,150,95
+Curling Iron,Fashion,200,70
+Straightener,Fashion,220,65
+Moisturizer,Fashion,55,150
+Body Lotion,Fashion,70,130
